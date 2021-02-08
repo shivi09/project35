@@ -18,7 +18,7 @@ function setup() {
   dog = createSprite(250,350);
   dog.addImage(dogImage);
   dog.scale=0.3;
-  
+  //testing git
 }
 
 
