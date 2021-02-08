@@ -19,6 +19,7 @@ function setup() {
   dog.addImage(dogImage);
   dog.scale=0.3;
   //testing git
+  //testing git command line
 }
 
 
